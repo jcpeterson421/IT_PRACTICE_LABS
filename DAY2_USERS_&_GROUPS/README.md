@@ -10,7 +10,15 @@ Practice Linux user and group management.
 - Added testuser to itgroup
 - Verified group membership
 
+## What I Learned
+- User and group management
+- Assigning users to groups
+- Basic access control concepts
+- Linux account administration
+
 ## Screenshots
 ![Who am I](Screenshots/whoami.png)
+
 ![Create user](Screenshots/create-user.png)
+
 ![Groups and usermod](Screenshots/groups-and-usermod.png)
