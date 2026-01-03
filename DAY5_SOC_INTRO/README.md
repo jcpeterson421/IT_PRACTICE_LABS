@@ -11,7 +11,15 @@ Introduce basic SOC (Security Operations Center) and blue team concepts through 
 - Escalated issue following standard SOC procedures
 - Added the malicious IP to a block list
 
+## What I Learned
+- Security monitoring workflows
+- Identifying malicious IPs
+- Using SIEM dashboards
+- Threat detection and escalation
+
 ## Screenshots
 ![SIEM Dashboard](screenshots/SIEM-dashboard.png)
+
 ![Malicious IP Identified](screenshots/malicious-IP-identified.png)
+
 ![SIEM Block List](screenshots/SIEM-block-list.png)
