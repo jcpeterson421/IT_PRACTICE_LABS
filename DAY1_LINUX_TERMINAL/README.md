@@ -17,10 +17,14 @@ Set up a Linux VM and practice basic terminal navigation and file operations.
 ## What I Learned
 - Linux directory navigation
 - Basic file and folder management from the terminal
+- Viewing system information and environment
+- Command line fundamentals
 
 ## Screenshots
-
 ![Login](screenshots/login.png)
+
 ![Basic commands](screenshots/basic-commands.png)
+
 ![Creating file and directory](screenshots/creating-file-and-directory.png)
+
 ![Deleting file and directory](screenshots/deleting-file-and-directory.png)
