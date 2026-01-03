@@ -10,7 +10,15 @@ Practice Linux file ownership and permissions.
 - Changed permissions to 640
 - Verified file status with ls -l
 
+## What I Learned
+- File ownership and permissions
+- User, group, and other distinctions
+- Basic file and directory management
+- Security implications of permissions
+
 ## Screenshots
 ![Initial file](screenshots/permissions-initial.png)
+
 ![Ownership changed](screenshots/permissions-chown.png)
+
 ![Permissions changed](screenshots/permissions-chmod.png)
