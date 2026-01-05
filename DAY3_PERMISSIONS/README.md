@@ -4,17 +4,17 @@
 Practice Linux file ownership and permissions.
 
 ## Tasks Completed
-- Created a test file
-- Checked initial ownership and permissions
+- Created test file
+- Checked ownership and permissions
 - Changed ownership to testuser:itgroup
-- Changed permissions to 640
+- Changed permissions to 640 (rw-r-----)
 - Verified file status with ls -l
 
 ## What I Learned
 - File ownership and permissions
-- User, group, and other distinctions
+- User and group distinctions
 - Basic file and directory management
-- Security implications of permissions
+- Security implications for permissions
 
 ## Screenshots
 ![Initial file](screenshots/permissions-initial.png)
