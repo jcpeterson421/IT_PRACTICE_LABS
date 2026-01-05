@@ -1,11 +1,12 @@
 # IT Practice Labs Portfolio
 
-This repository contains ongoing projects and labs to practice and demonstrate skills relevant to IT support, sysadmin, networking, cloud, and cybersecurity .
+This repository contains ongoing projects and labs to practice and demonstrate skills relevant to a career in IT support, sysadmin, networking, cloud, and cybersecurity.
 
 Each lab is organized by day and includes:
-- Objectives and tasks completed  
-- Screenshots of work done  
-- Key takeaways and skills learned  
+- Objectives
+- Tasks completed  
+- Screenshots of work  
+- Key takeaways and learning points  
 
 ## Labs Included
 1. **Day 1 – Linux Terminal Basics**  
