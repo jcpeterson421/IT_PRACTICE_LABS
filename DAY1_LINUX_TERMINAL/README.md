@@ -1,7 +1,7 @@
 # Day 1 – Linux Terminal & File Navigation
 
 ## Objective
-Set up a Linux VM and practice basic terminal navigation and file operations.
+Set up a Linux VM to practice terminal navigation and basic file operations.
 
 ## Tasks Completed
 - Installed Ubuntu Linux Server in a virtual machine through UTM on MacOS
@@ -11,8 +11,8 @@ Set up a Linux VM and practice basic terminal navigation and file operations.
 
 ## What I Learned
 - Linux directory navigation
-- Basic file and folder management from the terminal
-- Viewing system information and environment
+- Basic file and folder management from terminal
+- Viewing of system information
 - Command line fundamentals
 
 ## Screenshots
