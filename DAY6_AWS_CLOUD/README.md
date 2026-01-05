@@ -6,8 +6,8 @@ Gain hands-on experience with basic cloud infrastructure by deploying a virtual 
 ## Tasks Completed
 - Navigated the AWS EC2 dashboard
 - Configured and launched an EC2 instance
-- Named the instance and selected Amazon Linux AMI
-- Configured instance type (Free Tier)
+- Named instance and selected Amazon Linux AMI
+- Selected instance type
 - Created and configured an SSH key pair
 - Configured security group to allow SSH access
 - Verified instance is running and healthy
